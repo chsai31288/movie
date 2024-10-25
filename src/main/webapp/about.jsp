@@ -224,7 +224,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team1.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Johnson smith</h3>
@@ -242,7 +242,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team2.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Alexander leo</h3>
@@ -260,7 +260,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team3.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Roy Linderson</h3>
@@ -278,7 +278,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team4.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Mike Thyson</h3>
@@ -296,7 +296,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team2.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Laura gill</h3>
@@ -314,7 +314,7 @@
 										voluptate rem ullam dolore!.</q>
 								</blockquote>
 								<div class="testi-des">
-									<div class="test-img"><img src="assets/images/team3.jpg" class="img-fluid" alt="/">
+									<div class="test-img"><img src="/" class="img-fluid" alt="/">
 									</div>
 									<div class="peopl align-self">
 										<h3>Smith Johnson</h3>
