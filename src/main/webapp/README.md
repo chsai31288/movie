@@ -4,6 +4,7 @@ It is available in both dark & light mode.
 
 ### Demo : http://myshowz.infinityfreeapp.com/
 
+
 # Glimpse of the web-site
 ## Home page in the dark mode
 ![Home page in the dark mode](./screenshots/MyShowz_home_page_dark.PNG)
